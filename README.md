@@ -20,5 +20,15 @@ Welcome to the DraX Pad project! This is a high-performance, compact macro pad d
 
 **🎛️ Multiple Presets:** Switch between different layers (Gaming, Video Editing, Coding) with a single tap.
 
+## Components Needed
+
+| Component | Quantity | Description |
+| :--- | :---: | :--- |
+| **Macropad PCB** | 1 | The main circuit board |
+| **Mechanical Switches** | 10 | Cherry MX compatible (3x3 layout + 1 on top left) |
+| **Keycaps** | 10 | Any Profiles |
+| **Microcontroller** | 1 | Seed Studio Xiao rp2040 |
+| **USB-C Cable** | 1 | Data-capable cable (not just charging) |
+
 > This is a project done for [Hack Club Blueprint Program](https://blueprint.hackclub.com/home)
 > Feel free to make your own version and post it online!
