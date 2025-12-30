@@ -21,10 +21,9 @@ Welcome to the DraX Pad project! This is a high-performance, compact macro pad d
 **🎛️ Multiple Presets:** Switch between different layers (Gaming, Video Editing, Coding) with a single tap.
 
 ## Images
-<img width="302" height="380" alt="PCB layout" src="https://github.com/user-attachments/assets/9e8f19e5-1190-40f7-ac19-de979ccaa13f" />
+<img width="412" height="535" alt="PCB layout" src="https://github.com/user-attachments/assets/189c4ba6-fb27-4536-9291-40095914c03e" />
 
-<img width="850" height="380" alt="Schematics layout" src="https://github.com/user-attachments/assets/2b6c2495-c979-4ffe-8c65-309bccb4609d" />
-
+<img width="1202" height="543" alt="Schematics layout" src="https://github.com/user-attachments/assets/4d50f8c8-4493-408a-ba8f-7ef271d164f3" />
 
 ## Components Needed
 
