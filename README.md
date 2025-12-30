@@ -1,9 +1,11 @@
-# 🎮 DraX Pad
+<img width="1366" height="768" alt="Banner" src="https://github.com/user-attachments/assets/f73040f2-5b4c-451a-a35f-706da0fa2a3b" />
+
+# **🎮 DraX Pad**
 The Ultimate Programmable Macro Pad
 
 Welcome to the DraX Pad project! This is a high-performance, compact macro pad designed for productivity, gaming, and custom control. Powered by the XIAO RP2040, it packs a ton of features into a tiny footprint.
 
-# ✨ Key Features
+## ✨ Key Features
 **⌨️ 10 Programmable Keys:** Fully customizable to launch apps, run complex macros, or control your media.
 
 **⚡ Hot-Swappable:** Change your mechanical switches on the fly—no soldering required.
@@ -17,3 +19,6 @@ Welcome to the DraX Pad project! This is a high-performance, compact macro pad d
 **🔌 USB-C Connectivity:** Modern, reliable, and easy to plug in.
 
 **🎛️ Multiple Presets:** Switch between different layers (Gaming, Video Editing, Coding) with a single tap.
+
+> This is a project done for [Hack Club Blueprint Program](https://blueprint.hackclub.com/home)
+> Feel free to make your own version and post it online!
